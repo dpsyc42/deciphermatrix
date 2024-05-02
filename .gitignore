@@ -1,0 +1,28 @@
+# Exclude all backup files:
+*.m~
+
+# Exclude auto-saved files:
+*.asv
+
+# Exclude MATLAB data files:
+*.mat
+
+# Exclude figure files:
+*.fig
+
+# Exclude encrypted P-code files:
+*.p
+
+# Exclude app installation files:
+*.mlappinstall
+
+# Exclude project files:
+*.prj
+
+# Exclude Simulink model files:
+*.mdl
+*.slx
+
+# Exclude specific directories:
+bin/
+private/
